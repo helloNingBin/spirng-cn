@@ -23,7 +23,6 @@ buildSrc/build
 /spring-*/build
 /src/asciidoc/build
 target/
-test/
 *.png
 *.gif
 # Eclipse artifacts, including WTP generated manifests
